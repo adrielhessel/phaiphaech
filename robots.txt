@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeitaefu.whilefalsestudios.com/sitemap.xml
